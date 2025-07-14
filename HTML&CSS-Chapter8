@@ -1,0 +1,10 @@
+Tạo một iframe có width = "600" và height = "400"  
+
+<head>
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Responsive -->
+  <meta name="description" content="Trang học lập trình HTML, CSS, JavaScript dễ hiểu."> --> hiển thị mô tả để google so với yêu cầu tìm kiếm 
+  <meta name="keywords" content="HTML, CSS, JavaScript, học lập trình"> --> đưa lên khi xuất hiện 
+  <meta name="author" content="Vũ Phan Việt Ngọc">
+  <meta name="robots" content="index, follow"> --> cho phép lưu vào cơ sở dữ liệu và xuát hiện khi người khác tìm kiếm (index) , follow : cho phép truy cập link trong trang hiện tại , nếu trang đó đã được index thì sẽ vẫn tìm đưuocj qua đường khác 
+</head>
